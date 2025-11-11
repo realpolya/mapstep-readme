@@ -19,13 +19,22 @@ Prototyping & Design:
 - **Figma** - UX/UI prototyping, React front-end architecture
 - **Adobe Illustrator** - logo/brand design
 
+Locations serviced:
+- Los Angeles County, California
+
+API endpoint:
+- [Los Angeles County Assessor's portal](https://portal.assessor.lacounty.gov/)
+
 <figure>
     <img src="./assets/dark_home.png" alt="mapstep home page dark" width="400"/>
     <figcaption><em>home page in dark mode</em></figcaption>
 </figure>
 
 
-<img src="./assets/sample_search.png" alt="mapstep search results" width="400"/>
+<figure>
+    <img src="./assets/sample_search.png" alt="mapstep search results" width="400"/>
+    <figcaption><em>sample search page</em></figcaption>
+</figure>
 
 
 
