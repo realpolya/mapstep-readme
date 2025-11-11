@@ -1,3 +1,4 @@
-# mapstep.io README
+# mapstep.io
 
 Visit [mapstep.io](https://mapstep.io/)
+
