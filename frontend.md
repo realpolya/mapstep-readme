@@ -25,16 +25,13 @@ Locations serviced:
 API endpoint:
 - [Los Angeles County Assessor's portal](https://portal.assessor.lacounty.gov/)
 
-<figure>
-    <img src="./assets/dark_home.png" alt="mapstep home page dark" width="400"/>
-    <figcaption><em>home page in dark mode</em></figcaption>
-</figure>
+#### home page in dark mode
+<img src="./assets/dark_home.png" alt="mapstep home page dark" width="400"/>
 
 
-<figure>
-    <img src="./assets/sample_search.png" alt="mapstep search results" width="400"/>
-    <figcaption><em>sample search page</em></figcaption>
-</figure>
+
+#### sample search page
+<img src="./assets/sample_search.png" alt="mapstep search results" width="400"/>
 
 
 
