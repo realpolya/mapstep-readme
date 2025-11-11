@@ -1,7 +1,8 @@
 # mapstep.io front-end application
 
 Tech stack:
-- **React + Vite** – Component-based UI framework  
+- **JavaScript** - front-end programming language
+- **React + Vite** – Component-based single-page application UI framework
 - **Axios** – HTTP client for backend communication  
 - [**Mapbox GL JS**](https://www.mapbox.com/) – Interactive mapping and geospatial visualization  
 - **Google Maps Javascript API** – Google Maps tools such as autocomplete
@@ -22,9 +23,6 @@ Prototyping & Design:
 Locations serviced:
 - Los Angeles County, California
 
-API endpoint:
-- [Los Angeles County Assessor's portal](https://portal.assessor.lacounty.gov/)
-
 #### home page in dark mode
 <img src="./assets/dark_home.png" alt="mapstep home page dark" width="400"/>
 
@@ -32,6 +30,3 @@ API endpoint:
 
 #### sample search page
 <img src="./assets/sample_search.png" alt="mapstep search results" width="400"/>
-
-
-
