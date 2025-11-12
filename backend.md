@@ -15,7 +15,7 @@ Back-end deployment:
 - **AWS S3** – cloud-based file storage
 - **Gunicorn + Whitenoise** - production web server and static file management
 
-Prototyping & Design:
+Prototyping & Architecture:
 - **Figma** - Django back-end architecture, entity relationship diagrams (ERDs)
 
 External data source:
